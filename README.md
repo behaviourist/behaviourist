@@ -8,9 +8,11 @@ Relevant data
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behaviourist)
 
 
-### Current activities / hobbies / side-projects
+Current Projects
+===
 - Hades
 - Senso
 
-### Contact
+Contact
+===
 - Discord: mitch#5000
