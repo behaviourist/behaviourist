@@ -1,7 +1,7 @@
 mitch
 ===
 
-- Discord: mitch#5000
+- mitch#5000
 
 projects
 ===
