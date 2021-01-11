@@ -6,8 +6,7 @@ mitch
 projects
 ===
 
-- Senso
-- Hades
+None currently!
 
 languages
 ===
