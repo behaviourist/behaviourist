@@ -1,12 +1,12 @@
 mitch
 ===
 
-- mitch#4510
+- nothing here
 
 projects
 ===
 
-None currently!
+- none currently
 
 languages
 ===
